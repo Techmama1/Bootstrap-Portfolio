@@ -3,7 +3,7 @@
 A portfolio layout using the Bootstrap CSS Framework.
 
 Live Project:
-https://selmadelgado.github.io/Bootstrap-Portfolio/
+https://techmama1.github.io/Bootstrap-Portfolio/.
 
 Assignment Two Instructions (Bootstrap)
 Inside your Bootstrap-Portfolio repo, create index.html, portfolio.html and contact.html.
